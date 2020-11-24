@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-import { Configurations, dataProviderConfgToken, DataProviderServiceToken, LocalDataProvider, LocalDataProviderConfig, PREDICATES } from '@ksaleh-ng/dropdown-lookup';
+import { Configurations, dataProviderConfgToken, DataProviderServiceToken, LocalDataProvider,
+   LocalDataProviderConfig, PREDICATES } from '@ksaleh/dropdown-lookup';
 import {take} from 'rxjs/operators';
 
 let data :any[] =[];

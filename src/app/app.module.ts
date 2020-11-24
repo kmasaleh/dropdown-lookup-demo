@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import {DropdownLookupModule} from '@ksaleh-ng/dropdown-lookup';
+import {DropdownLookupModule} from '@ksaleh/dropdown-lookup';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
