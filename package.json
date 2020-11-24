@@ -19,6 +19,9 @@
     "@angular/platform-browser": "~9.1.12",
     "@angular/platform-browser-dynamic": "~9.1.12",
     "@angular/router": "~9.1.12",
+    "@fortawesome/angular-fontawesome": "^0.6.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@ksaleh-ng/dropdown-lookup": "file:../../ksaleh-ng-works/dist/ksaleh-ng/dropdown-lookup/ksaleh-ng-dropdown-lookup-0.0.1.tgz",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
