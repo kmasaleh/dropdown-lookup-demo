@@ -19,3 +19,4 @@ import "@angular/compiler";
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+//"@ksaleh/dropdown-lookup": "file:../../ksaleh-ng-works/dist/ksaleh-ng/dropdown-lookup",
