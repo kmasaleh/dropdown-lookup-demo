@@ -23,7 +23,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     
-    "@ksaleh/dropdown-lookup": "^0.0.2",
+    "@ksaleh/dropdown-lookup": "0.0.3",
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
     "rxjs": "~6.5.4",
