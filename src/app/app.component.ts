@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { Configurations, dataProviderConfgToken, DataProviderServiceToken, LocalDataProvider,
    LocalDataProviderConfig, PREDICATES } from '@ksaleh/dropdown-lookup';
 import {take} from 'rxjs/operators';
-import { HttpDataService } from 'src/services/http-data-serivce';
+import { HttpDataService } from './src/services/http-data-serivce';
 
 
 const random = (n=10)=> Math.floor(Math.random() * n);
