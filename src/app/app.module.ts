@@ -20,3 +20,4 @@ import "@angular/compiler";
 })
 export class AppModule { }
 //"@ksaleh/dropdown-lookup": "file:../../ksaleh-ng-works/dist/ksaleh-ng/dropdown-lookup",
+//"@ksaleh/dropdown-lookup": "0.0.3",

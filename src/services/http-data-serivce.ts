@@ -7,7 +7,7 @@ import { take } from 'rxjs/operators';
 @Injectable()
 export class HttpDataService extends LocalDataProvider{
     constructor(private http:HttpClient) { 
-        super({pageSize:null,data:null});
+        super();
     }
     
     filterStr;
